@@ -2,7 +2,7 @@
 """
 Dataset module for DeepFM.
 Original code inspired by: https://github.com/chenxijun1029/DeepFM_with_PyTorch
-Modified by: [Your Name/GitHub ID]
+Modified by: chenz0zz0
 
 Key Optimizations:
 1. Log-Transformation: Applied to numerical features to handle heavy-tailed distributions 
