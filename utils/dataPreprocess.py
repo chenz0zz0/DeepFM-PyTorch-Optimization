@@ -2,7 +2,7 @@
 """
 Data Preprocessing Script for Criteo Dataset.
 Original code inspired by: https://github.com/chenxijun1029/DeepFM_with_PyTorch
-Modified by: https://github.com/chenz0zz0/DeepFM-PyTorch-Optimization
+Modified by: chenz0zz0
 
 Purpose: 
 This script performs initial data cleaning, such as handling missing values 
